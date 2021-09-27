@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009483422984",
+    "project_id": "photo-ca3ff",
+    "storage_bucket": "photo-ca3ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009483422984:android:a23f1143e5da2a6ac620bd",
+        "android_client_info": {
+          "package_name": "com.example.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009483422984-93n9gj53tthidj9nftl88frkkd72lpk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGctTq3ALn-rC-99lMIudFm5gvt8-jwQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009483422984-93n9gj53tthidj9nftl88frkkd72lpk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
